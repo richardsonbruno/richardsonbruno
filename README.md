@@ -1,10 +1,10 @@
-<img align="right" width="400" height="400" src="https://img.freepik.com/free-vector/programming-web-development-concept-code-screen-laptop_100456-112.jpg?size=626&ext=jpg">
+<img align="right" width="400" height="400" src="https://w7.pngwing.com/pngs/685/882/png-transparent-web-development-programmer-computer-programming-mobile-app-development-design-web-design-text-reading.png">
 
 # Welcome!
 
 ## I'm Richardson Bruno!
 
-… Full Stack (Laravel, NodeJS, ReactJs, React Native)!
+… Full Stack (Laravel, ReactJs, React Native)
 … Playing is what you learn
 
 
