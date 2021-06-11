@@ -1,4 +1,4 @@
-<img align="right" width="420" src="https://www.dropbox.com/s/2me51vna0wdbzar/Webp.net-resizeimage.png?dl=0" />
+<img align="right" width="420" src="Webp.net-resizeimage.png" />
 
 # Welcome!
 
